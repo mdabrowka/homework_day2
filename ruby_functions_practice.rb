@@ -16,4 +16,8 @@ end
 
 def divide(var_one, var_two)
   return var_one / var_two
-end 
+end
+
+ def length_of_string(string)
+   return string.length
+ end
