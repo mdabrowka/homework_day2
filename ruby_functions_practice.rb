@@ -5,3 +5,7 @@ end
 def add(var_one, var_two)
   return var_one + var_two
 end
+
+def subtract(var_one, var_two)
+  return var_one - var_two
+end
